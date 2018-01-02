@@ -10,6 +10,6 @@
 	<title>日志管理</title>
 </head>
 <body>
-	<h1>日志管理</h1>
+	<h1>日志管理</h1><span>小洺到此一游</span>
 </body>
 </html>
