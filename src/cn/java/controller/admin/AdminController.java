@@ -56,6 +56,7 @@ public class AdminController {
      */
     @RequestMapping(value = "getNavsAdmin")
     public @ResponseBody Map<String, Object> getNavsAdmin(Integer page, Integer rows) {
+        System.out.println("1111");
         return fs.getAllAdminNavs(page, rows);
     }
 }
